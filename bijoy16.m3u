@@ -76,38 +76,6 @@ http://master.beeiptv.com:8081/LAW/somoy/playlist.m3u8
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi (Server 2)",Server 2------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",BD-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Documentary",DC------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",IB------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Indian",I-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="English",E----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Sports",S-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Music",M------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Kids",K-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Others",O-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Ityadi",IT-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="FM Radio",F------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Behind The Puppy",BP-----------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="BD IPTV",31.Al Dawah
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/kxFshHZ.png" group-title="BD IPTV",32.Alif TV
@@ -730,18 +698,6 @@ https://www.dropbox.com/s/jd6zncymgj3k6g0/Ityadi%20-%20Rangamati.mp4?raw=1
 https://www.dropbox.com/s/obzcxrqb5nb36hz/Ityadi%20-%20Sunamganj.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Sundarbans
 https://www.dropbox.com/s/9o0o5gkzdf8zq5o/Ityadi%20-%20%20Sundarbans.mp4?raw=1
-
-
-
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/BKash/BKash-Icon2-Logo.wine.png" group-title="",01826655778
-http://bit.ly/btvbk
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Nagad/Nagad-Logo.wine.png" group-title="",01826655778
-http://bit.ly/btvbkashw
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dutch-bangla-rocket-logo-B4D1CC458D-seeklogo.com.png" group-title="",018266557786
-http://bit.ly/btvbkaty
-
-
 
 
 
