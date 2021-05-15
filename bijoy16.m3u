@@ -6,11 +6,15 @@ http://66.45.232.131:9994/;stream.mp3
 
 
 
-#EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="Islamic TV ",1.Peace TV Bangla
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="#" group-title="Reality Show", G{H Ispat Present Esho Robot Banai
+https://www.dropbox.com/s/qusb2kg1nlng2ny/GPH%20Ispat%20Esho%20Robot%20Banai%20_%20Reality%20Shows%20_%20East%20West%20University.mp4?dl=0
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi (Server 2)",News 24
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="Islamic TV ",1.Peace TV Bangla
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8?token=soheliptv01826655778
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="Islamic TV ",2.Al Dawah
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
@@ -18,8 +22,6 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="" group-title="Islamic TV ",3.Panvision TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" group-title="Islamic TV ",6.ATN Islamic TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 
 
 EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="Islamic TV",7.Peace TV Bangla
@@ -32,6 +34,11 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi (Server 2)",DBC News
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" group-title="Islamic TV ",6.ATN Islamic TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+
+
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi (Server 2)",News 24
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladeshi (Server 2)",SATV
@@ -54,8 +61,7 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladeshi (Server 2)",Sangsad TV
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Bangladeshi (Server 2)",Duronto TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8?token=soheliptv01826655778
+
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladeshi (Server 2)",Boishakhi
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangladeshi (Server 2)",Shomoy TV
@@ -64,6 +70,30 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladeshi (Server 2)",Channel 9
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/m28fuy4f9lpdkmw/bg.png" group-title="BD IPTV",36.Bongo TV
+http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKJ6bs4/Channel-t1.png" group-title="BD IPTV",37.Channel T1
+http://128.199.212.160:80/channelt1/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://chsuk.tv/img/cateringcircle.png" group-title="BD IPTV",38.Channel S UK
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BD IPTV",39.Channel 23
+http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="BD IPTV",40.Cumilla 24 TV
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.deshebideshe.com/wp-content/uploads/2020/10/Newspaper-Logo.png" group-title="BD IPTV",41.Deshe Bideshe
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6KsBwmAHtmufM3Yd7voJ7vq-5H_mgdWLcP4BGSnznamzn55wreYqbvCPD7dySpWqr7d-au-L2kuZEgTHm225Ovr58Eh7X892i5jFhUl-xpIPPsVaY96yHy9s" group-title="BD IPTV",42.Deshi TV
+http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://i.imgur.com/ASztPbS.png" group-title="BD IPTV",43.ITV Bangla
+http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/02/jagoronitv.jpg" group-title="BD IPTV",44.Jagoroni TV
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://joyjatra.tv/front_end_assets/images/logo.png" group-title="BD IPTV",45.JoyJatra TV
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
+
+
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladeshi (Server 2)",Boishakhi
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8?token=soheliptv01826655778
@@ -104,12 +134,34 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg" group-title="BD IPTV",35.Bangla Channel
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",35.Biswa Bangla 24 TV
 
 
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Bangladeshi (Server 2)",Duronto TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8?token=soheliptv01826655778
+
+#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",69.Discovery Science English
+https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS84hgVS1QU6oYBmIFShXlVLt1INqdZ8DLiEKr5-ltpSTGuX1GP&usqp=CAU" group-title="Documentary",70.Discovery Turbo
+https://streamitv.multitvsolution.in/idvo/turboeng.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",71.Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",72.Animal Planet HD
+https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Documentary",73.BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Documentary",74.BBC Earth English
+https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.favpng.com/16/1/13/logo-outdoor-channel-high-definition-television-television-channel-png-favpng-JeAYSamzRX9xEcsFTdp6PFu14.jpg" group-title="Documentary",75.Outdoor HD
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Documentary",75.Travel Channel
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925753531s.png" group-title="Documentary",75.Travel XP
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",75.History TV English
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.m3u8
+
+
+
+
 
 
 
@@ -180,26 +232,7 @@ http://master.beeiptv.com:8081/LAW/somoy/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/m28fuy4f9lpdkmw/bg.png" group-title="BD IPTV",36.Bongo TV
-http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BKJ6bs4/Channel-t1.png" group-title="BD IPTV",37.Channel T1
-http://128.199.212.160:80/channelt1/1080/index.m3u8
-#EXTINF:-1 tvg-logo="https://chsuk.tv/img/cateringcircle.png" group-title="BD IPTV",38.Channel S UK
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",39.Channel 23
-http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="BD IPTV",40.Cumilla 24 TV
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.deshebideshe.com/wp-content/uploads/2020/10/Newspaper-Logo.png" group-title="BD IPTV",41.Deshe Bideshe
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6KsBwmAHtmufM3Yd7voJ7vq-5H_mgdWLcP4BGSnznamzn55wreYqbvCPD7dySpWqr7d-au-L2kuZEgTHm225Ovr58Eh7X892i5jFhUl-xpIPPsVaY96yHy9s" group-title="BD IPTV",42.Deshi TV
-http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8?token=soheliptv01826655778
-#EXTINF:0 tvg-logo="https://i.imgur.com/ASztPbS.png" group-title="BD IPTV",43.ITV Bangla
-http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/02/jagoronitv.jpg" group-title="BD IPTV",44.Jagoroni TV
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://joyjatra.tv/front_end_assets/images/logo.png" group-title="BD IPTV",45.JoyJatra TV
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjwGg2XyMGxFITXm_54WBnNF_zBYcYw9n1E_PlCxoo=s900-c-k-c0x00ffffff-no-rj" group-title="BD IPTV",46.KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="BD IPTV",47.My Cinema
@@ -264,26 +297,7 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8?
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",68.Discovery Science Hindi
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",69.Discovery Science English
-https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS84hgVS1QU6oYBmIFShXlVLt1INqdZ8DLiEKr5-ltpSTGuX1GP&usqp=CAU" group-title="Documentary",70.Discovery Turbo
-https://streamitv.multitvsolution.in/idvo/turboeng.m3u8?token=soheliptv01826655778
-#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",71.Animal Planet
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",72.Animal Planet HD
-https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Documentary",73.BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Documentary",74.BBC Earth English
-https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.favpng.com/16/1/13/logo-outdoor-channel-high-definition-television-television-channel-png-favpng-JeAYSamzRX9xEcsFTdp6PFu14.jpg" group-title="Documentary",75.Outdoor HD
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Documentary",75.Travel Channel
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925753531s.png" group-title="Documentary",75.Travel XP
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Documentary",75.History TV English
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="Kids",76.Mr Bean Show
@@ -714,59 +728,5 @@ http://peridot.streamguys.com:7150/Mirchi
 http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/pn9rydep7xzxfcg/101.6.jpg?raw=1" group-title="FM Radio",Colours FM (101.6)
 http://45.64.135.88:8000/stream1
-
-
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zc2qufsco7uxl51/logo.png?raw=1" group-title="Behind The Puppy",Behind The Puppy [1]
-https://www.dropbox.com/s/g8axii2349wl0nk/BTP1.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zc2qufsco7uxl51/logo.png?raw=1" group-title="Behind The Puppy",Behind The Puppy [2]
-https://www.dropbox.com/s/wgdvq8ifq9ffrip/BTP2.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zc2qufsco7uxl51/logo.png?raw=1" group-title="Behind The Puppy",Behind The Puppy [3]
-https://www.dropbox.com/s/yddy01sm346b30e/BTP3.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zc2qufsco7uxl51/logo.png?raw=1" group-title="Behind The Puppy",Behind The Puppy [4]
-https://www.dropbox.com/s/env9luhakgugaax/BTP4.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zc2qufsco7uxl51/logo.png?raw=1" group-title="Behind The Puppy",Behind The Puppy [5]
-https://www.dropbox.com/s/host5vyn3txmu8n/BTP5.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zc2qufsco7uxl51/logo.png?raw=1" group-title="Behind The Puppy",Behind The Puppy [6]
-https://www.dropbox.com/s/27w8bvz5ussvcle/BTP6.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zc2qufsco7uxl51/logo.png?raw=1" group-title="Behind The Puppy",Behind The Puppy [7]
-https://www.dropbox.com/s/q58q4e00l2vzzya/BTP7.mp4?raw=1
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Bandarban
-https://www.dropbox.com/s/vyvg48ad1mb9ell/Ityadi%20-%20Bandarban.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Cox's Bazar
-https://www.dropbox.com/s/3athznre8ydpxiq/Ityadi%20-%20Cox%27s%20Bazar.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Jessore
-https://www.dropbox.com/s/pdmm32ahygie1t4/Ityadi%20-%20Jessore.mkv?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Kishoreganj
-https://www.dropbox.com/s/c4lrfjs61nq7w71/Ityadi%20-%20Kishoreganj.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Kuakata
-https://www.dropbox.com/s/dhhrxkj0ibfieb8/Ityadi%20-%20Kuakata.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Nilphamari
-https://www.dropbox.com/s/udbmnwlzkwrwo4o/Ityadi%20-%20Nilphamari.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Pabna
-https://www.dropbox.com/s/3dhewf0m79sz2cz/Ityadi%20-Pabna.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Panchagarh
-https://www.dropbox.com/s/kwkj7frdpzf1jjw/Ityadi%20-Panchagarh.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Rangamati
-https://www.dropbox.com/s/jd6zncymgj3k6g0/Ityadi%20-%20Rangamati.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Sunamganj
-https://www.dropbox.com/s/obzcxrqb5nb36hz/Ityadi%20-%20Sunamganj.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Sundarbans
-https://www.dropbox.com/s/9o0o5gkzdf8zq5o/Ityadi%20-%20%20Sundarbans.mp4?raw=1
-
-
-
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/BKash/BKash-Icon2-Logo.wine.png" group-title="",01826655778
-http://bit.ly/btvbk
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Nagad/Nagad-Logo.wine.png" group-title="",01826655778
-http://bit.ly/btvbkashw
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dutch-bangla-rocket-logo-B4D1CC458D-seeklogo.com.png" group-title="",018266557786
-http://bit.ly/btvbkaty
-
 
 
