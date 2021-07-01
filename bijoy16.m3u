@@ -34,8 +34,18 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 
 #EXTINF:-1,BBC Earth
 http://84.17.41.7:80/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="Documentary",Love Nature
+#EXTINF:0 type="stream" channelId="721" group="New" logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg", 75.Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0 type="stream" channelId="50" group="Documentary" logo="https://i.imgur.com/86jLO7q.png", 71.Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Documentary" logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png", 74.BBC Earth English
+https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2035" group="New" logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg", 75.Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="New" logo="https://www.tillerdesign.com/wp-content/uploads/2019/07/popular-science-magazine_610_407_80.jpg", 75.Popular Science
+https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+#EXTINF:0 type="stream" channelId="3192" group="Documentary" logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png", 73.BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi (Server 2)",My TV HD
